@@ -11,7 +11,7 @@ namespace PracticeProject
 			{
 				for (int x = 0; x < 100; x++)
 				{
-					Console.Write("*");
+					Console.Write("*"); //
 				}
 			});
 			t.Wait();
